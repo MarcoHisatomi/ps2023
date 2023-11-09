@@ -4,7 +4,7 @@ class Veiculo:
         self.chassi = chassi
         self.marca = marca
         self.modelo = modelo
-        self.ano = ano
+        self.ano = anomodelo
 
 class Motocicleta(Veiculo): 
     def __init__(self, tipo, chassi, marca, modelo, ano, cilindrada):
