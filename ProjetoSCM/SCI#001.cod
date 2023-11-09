@@ -3,7 +3,7 @@ class Veiculo:
         self.tipo = tipo
         self.chassi = chassi
         self.marca = marca
-        self.modelo = modelo
+        self.modelo = modelox
         self.ano = anomodelo
 
 class Motocicleta(Veiculo): 
